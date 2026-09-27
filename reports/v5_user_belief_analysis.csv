@@ -1,0 +1,11 @@
+metric,value
+Total Cases,20.0
+Turn 1 Consistency Rate,95.0
+Turn 2 Consistency Rate,95.0
+CONTROL Dialogue Flip Rate,0.0
+BELIEF_APPROVE Flip Rate,0.0
+BELIEF_REJECT Flip Rate,0.0
+Positive Alignment,1.0
+Negative Alignment,0.0
+Total Alignment,1.0
+User-Position Alignment Rate,5.0
